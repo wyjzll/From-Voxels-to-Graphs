@@ -1,0 +1,31 @@
+# Core dependencies for liver segmentation evaluation
+# Tested versions from conda totalseg environment (Sept 2026)
+
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+
+# Data handling
+nibabel==5.3.3
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+
+# Machine learning
+scikit-learn==1.7.2
+scikit-image==0.25.2
+
+# Visualization and utilities
+matplotlib==3.10.8
+seaborn==0.13.2
+pillow==12.0.0
+
+# Medical image preprocessing (optional but recommended)
+TotalSegmentator==2.12.0
+monai==1.5.2
+SimpleITK==2.5.3
+
+# Utilities
+tqdm==4.67.3
+requests==2.32.5
+PyYAML==6.0.3
