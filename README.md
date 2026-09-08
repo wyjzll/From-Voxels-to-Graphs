@@ -279,7 +279,9 @@ Pre-trained model weights are required to run the evaluation. Update the paths i
 
 ## License
 
-[MIT License / Your License Here]
+Copyright 2026 Mayo AI Lab
+
+Licensed under the Apache License, Version 2.0 (the "License")
 
 ## Contact
 
